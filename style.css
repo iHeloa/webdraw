@@ -1,0 +1,21 @@
+body{
+    background-color: turquoise;
+}
+
+#score{
+    font-size:30;
+    float:left;
+    margin-left: 50px;
+}
+
+#timer{
+    font-size: 30;
+    float:right;
+    margin-right: 50px;
+}
+
+#sketch_to_be_drawn{
+    color:palegoldenrod;
+    font-size: 30px;
+}
+
